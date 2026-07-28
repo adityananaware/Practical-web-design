@@ -69,9 +69,12 @@ A complete collection of **Web Design and Development** practical programs for *
 
 ## Practical 4 – JavaScript
 
-### Aim
-- Create interactive web pages using JavaScript.
+### Aim: Create webpages using JavaScript.
 
+- a.	Intro to JavaScript Programming: basic arithmetic operations, alerts and console logging.
+- b.	Form validation using JavaScript: validate required fields, check for email format, and password length.
+- c.	JavaScript events and Interactivity: implement onClick, onMouseOver and onChange events with buttons and inputs.
+- 
 ### Topics Covered
 - Variables
 - Operators
