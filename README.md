@@ -71,10 +71,10 @@ A complete collection of **Web Design and Development** practical programs for *
 
 ### Aim: Create webpages using JavaScript.
 
-- a.	Intro to JavaScript Programming: basic arithmetic operations, alerts and console logging.
-- b.	Form validation using JavaScript: validate required fields, check for email format, and password length.
-- c.	JavaScript events and Interactivity: implement onClick, onMouseOver and onChange events with buttons and inputs.
-- 
+- Intro to JavaScript Programming: basic arithmetic operations, alerts and console logging.
+- Form validation using JavaScript: validate required fields, check for email format, and password length.
+- JavaScript events and Interactivity: implement onClick, onMouseOver and onChange events with buttons and inputs.
+  
 ### Topics Covered
 - Variables
 - Operators
